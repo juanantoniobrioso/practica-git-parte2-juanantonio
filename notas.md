@@ -7,3 +7,9 @@
 - Inglés
 - IPE II
 - Proyecto DAW
+
+# Tareas pendientes
+
+- Entorno Cliente: Trabajo Github
+- Inglés: Writing
+- IPE II: Currículum
