@@ -20,4 +20,4 @@ Hola
 
 # Modificación segundo commit
 
-Hola otra vez
+Hola otra vez esta línea ha sido modificada en feature_conflicto
